@@ -1,20 +1,33 @@
-![Watch Now](./img/Design.jpg)
-# One page Portfolio Website (HTML CSS Project)
-**Watch on YouTube ![YouTube Video Views](https://img.shields.io/youtube/views/ZFQkb26UD1Y?style=social) : https://youtu.be/ZFQkb26UD1Y**
+# Responsive Sales Dashboard
 
----
+This is a responsive sales dashboard built using **HTML 5**, **CSS 3**, and **JavaScript**. Charts were built using **ApexCharts 3**.
 
-### Made with ❤️ by [Shaif Arfan](https://www.instagram.com/shaifarfan08/)
+![plot](https://github.com/BobsProgrammingAcademy/responsive-sales-dashboard/blob/master/images/large.png?raw=true)
 
-Like my works and want to support me?
+## Table of Contents
 
-<a href="https://www.buymeacoffee.com/shaifarfan08" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 162.75px !important;" ></a>
+- [Prerequisites](#prerequisites)
+- [Running the application](#run-the-application)
+- [Copyright and License](#copyright-and-license)
 
----
+## Prerequisites
 
-## Other projects
+Install the following prerequisites:
 
-📚 [All Web Cifar Project Tutorials](https://github.com/ShaifArfan/wc-project-tutorials)
-  
+- [Visual Studio Code](https://code.visualstudio.com/download) with the **Live Server** extension.
 
+[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) allows us to launch a local development server that enables a live reload of our project.
 
+## Run the application
+
+To run the application, start the **Live Server** by clicking **Go Live** in the bottom right corner of the status bar in Visual Studio Code. This action will load the website in your default web browser.
+
+![plot](https://github.com/BobsProgrammingAcademy/responsive-sales-dashboard/blob/master/images/vscode.png?raw=true)
+
+## View the application
+
+Once the **Live Server** is up and running, go to http://127.0.0.1:5500/index.html to view the application.
+
+## Copyright and License
+
+Copyright © 2022 Bob's Programming Academy. Code released under the MIT license.
