@@ -3,7 +3,7 @@
     font-size: 3rem;
     white-space: nowrap;
     overflow: hidden;
-    border-right: 2px solid #ebebf0;
+    border-right: 2px solid #111113;
     animation: typing 4s steps(30, end), blink 0.6s step-end infinite;
 }
 
@@ -76,7 +76,7 @@
     padding: 80px 20px;
     background: url('pe.jpg') no-repeat center center/cover; /* Gambar diatur memenuhi layar */
     background-size: cover; /* Memastikan gambar memenuhi seluruh area */
-    color: #fff;
+    color: #e9e1e1;
     text-align: center;
     position: relative;
     overflow: hidden;
@@ -104,7 +104,7 @@
     background: rgba(255, 255, 255, 0.1); /* Lapisan transparan untuk teks */
     padding: 20px 30px;
     border-radius: 12px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 4px 8px rgba(173, 105, 105, 0.2);
 }
 
 #about h2 {
@@ -121,7 +121,7 @@
 }
 
 .about-container strong {
-    color: #ffd700; /* Warna emas untuk teks penting */
+    color: #f0179d; /* Warna emas untuk teks penting */
 }
 
 .about-container .description {
@@ -130,8 +130,8 @@
 
 .home-btn { /* Tombol home */
     display: inline-block;
-    background-color: #333;
-    color: #fff;
+    background-color: #1411e2;
+    color: #9b3737;
     padding: 10px 20px;
     text-decoration: none;
     text-align: center;
@@ -181,11 +181,11 @@
 }
 
 .profile-picture img {
-    width: 150px; /* Ukuran kotak foto */
-    height: 150px;
+    width: 300px; /* Ukuran kotak foto */
+    height: 350px;
     object-fit: cover; /* Memastikan gambar sesuai dengan ukuran kotak */
     border-radius: 0; /* Membuat foto tetap berbentuk kotak */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Efek bayangan */
+    box-shadow: 0 4px 8px rgba(94, 90, 90, 0.2).2; /* Efek bayangan */
 }
 
 .about-details {
@@ -219,7 +219,7 @@
 #projects {
     padding: 80px 20px;
     background: url('pe.jpg') no-repeat center center/cover; /* Ganti dengan gambar pilihan Anda */
-    color: #fff;
+    color: #111111;
     text-align: center;
     position: relative;
     overflow: hidden;
@@ -233,7 +233,7 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(0, 0, 0, 0.5); /* Overlay gelap untuk teks lebih jelas */
+    background: rgba(168, 162, 162, 0.5); /* Overlay gelap untuk teks lebih jelas */
     z-index: 1;
 }
 
@@ -309,75 +309,11 @@
 } 
 
 
-
-
-/* Hobbies Section */
-#hobbies {
-    padding: 60px 20px;
-    text-align: center;
-    background: url('pe.jpg') no-repeat center center/cover; /* Ganti 'your-image.jpg' dengan path gambar Anda */
-    color: #fff;
-    text-align: center;
-    position: relative;
-    overflow: hidden;
-    min-height: 100vh; /* Memastikan tinggi section sama dengan tinggi viewport */
-    box-sizing: border-box;
-}
-
-#hobbies h2 {
-    font-size: 2.5rem;
-    margin-bottom: 20px;
-    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
-}
-
-.hobby-list {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 20px;
-}
-
-.hobby-item {
-    background: rgba(255, 255, 255, 0.8);
-    padding: 20px;
-    border-radius: 8px;
-    color: #333;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-}
-
-.hobby-item h3 {
-    font-size: 1.5rem;
-    margin-bottom: 10px;
-}
-
-.hobby-item p {
-    font-size: 1rem;
-    line-height: 1.5;
-}
-
-.home-btn { /* Tombol home */
-    display: inline-block;
-    background-color: #333;
-    color: #fff;
-    padding: 10px 20px;
-    text-decoration: none;
-    text-align: center;
-    border-radius: 5px;
-    margin-top: 20px;
-    font-weight: bold;
-    transition: background-color 0.3s;
-}
-
-.home-btn:hover {
-    background-color: #555;
-}
-
-
-
 /* Sertifikat Section */
 #certificates {
     padding: 60px 20px;
     background: url('pe.jpg') no-repeat center center/cover; /* Ganti dengan gambar pilihan Anda */
-    color: #fff;
+    color: #501ec5;
     text-align: center;
     position: relative;
     overflow: hidden;
@@ -391,7 +327,7 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(0, 0, 0, 0.5); /* Overlay gelap untuk teks lebih jelas */
+    background: rgba(117, 112, 112, 0.5); /* Overlay gelap untuk teks lebih jelas */
     z-index: 1;
 }
 
@@ -481,7 +417,7 @@
     padding: 80px 20px;
     background: url('pe.jpg') no-repeat center center/cover; /* Gambar diatur memenuhi layar */
     background-size: cover; /* Memastikan gambar memenuhi seluruh area */
-    color: #fff;
+    color: #ada7a7;
     text-align: center;
     position: relative;
     overflow: hidden;
@@ -496,7 +432,7 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(0, 0, 0, 0.6); /* Overlay gelap untuk teks lebih jelas */
+    background: rgba(216, 211, 211, 0.6); /* Overlay gelap untuk teks lebih jelas */
     z-index: 1;
 }
 
