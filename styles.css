@@ -452,7 +452,11 @@
     font-size: 2.5em;
     margin-bottom: 20px;
     font-weight: bold;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+    color: #111111;
+}
+
+#contact p {
+    color: #111111;
 }
 
 .contact-container .description {
@@ -463,6 +467,7 @@
 .contact-list {
     list-style: none;
     padding: 0;
+    color: #111111;
 }
 
 .contact-list li {
